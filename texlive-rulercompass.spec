@@ -1,6 +1,6 @@
 Name:		texlive-rulercompass
 Version:	32392
-Release:	1
+Release:	2
 Summary:	A TikZ library for straight-edge and compass diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass
