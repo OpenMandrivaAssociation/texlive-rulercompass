@@ -3,7 +3,7 @@ Version:	32392
 Release:	2
 Summary:	A TikZ library for straight-edge and compass diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rulercompass.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rulercompass.doc.r%{version}.tar.xz
